@@ -13,8 +13,7 @@ Este aplicativo utiliza o Google AdMob para exibição de anúncios. O Google
 pode usar cookies ou identificadores para personalizar anúncios.
 
 Dados de crianças:
-Este aplicativo não é direcionado a menores de 13 anos. Não coletamos
-intencionalmente dados pessoais de crianças.
+Não coletamos intencionalmente dados pessoais de crianças.
 
 Serviços de terceiros:
 O app utiliza serviços de terceiros que possuem suas próprias políticas
@@ -45,8 +44,7 @@ This application uses Google AdMob to display advertisements. Google
 may use cookies or advertising identifiers to personalize ads.
 
 Children’s Data:
-This application is not directed at children under the age of 13. We do not
-intentionally collect personal data from children.
+ We do not intentionally collect personal data from children.
 
 Third-Party Services:
 The app uses third-party services that have their own privacy policies, such as:
